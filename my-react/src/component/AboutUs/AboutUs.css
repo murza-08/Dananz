@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1440px;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+
+.p2{
+font-weight: 600;
+font-size: 36px;
+margin-top: 20px;
+
+}
+.surot{
+    margin-left: 60px;
+}
+.surot2{
+    position: absolute;
+    right: 290px;
+    bottom: 290px;
+    
+}

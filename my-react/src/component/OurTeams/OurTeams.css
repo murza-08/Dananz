@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: o;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container{
+    width: 1440px;
+    margin: 0 auto;
+    position: relative;
+
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 60px;
+  }
+.fon{
+    background-color: #2D3A8C;
+    padding: 20px;
+    border-radius: 8px;
+    position: relative;
+}
+  
+.surottor{
+    width: 282px;
+    height: 370px;
+    
+}
+.names{
+    background-color: white;
+    text-align: center;
+    width: 300px;
+    height: 80px;
+    position: relative;
+    bottom: 105px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .card{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin-top: 100px;
+}
+.name{
+font-weight: 600;
+font-size: 24px;
+margin-left: 20px;
+}
+.position{
+font-weight: 400;
+font-size: 16px;
+margin-left: 20px;
+}
+.imgs{
+    position: absolute;
+    padding-right: 60px;
+} */

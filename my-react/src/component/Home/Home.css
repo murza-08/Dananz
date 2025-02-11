@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1440px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.img{
+    position: absolute;
+    margin-left: 519px;
+    bottom: 1060px;
+    
+}
+.surot{
+    margin-top: 50px;
+}
+.ksurot{
+    position: absolute;
+    bottom: 450px;
+    right: 380px;
+}
+.msurot{
+    position: absolute;
+    bottom: 500px;
+    right: 425px;
+}
