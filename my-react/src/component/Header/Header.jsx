@@ -24,7 +24,7 @@ function Header({image}) {
        
       </nav>
     </div>
-  )
+  ) 
 }
 
 export default Header

@@ -8,3 +8,70 @@
     width: 1440px;
     margin: 0 auto;
 }
+.block{
+    width: 1440px;
+    height: 203px;
+    background-color: #2C3878;
+    margin-top: 140px;
+    
+}
+.block h1{
+font-weight: 600;
+font-size: 36px;
+color:  #FFFFFF;
+margin-left: 120px;
+padding-top: 40px;
+}
+
+.block p{
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0%;
+color: #D9D9D9;
+margin-left: 888px;
+margin-top: -80px;
+}
+
+.block button{
+    width: 142;
+    height: 49;
+    padding-top: 14px;
+    padding-right: 32px;
+    padding-bottom: 14px;
+    padding-left: 32px;
+    gap: 10px;
+    margin-left: 888px;
+    border: none;
+    margin-top: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.block2{
+    margin-top: -110px;
+}
