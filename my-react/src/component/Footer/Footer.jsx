@@ -27,8 +27,8 @@ function Footer({ image, images }) {
           </h3>
           <input
             type="text"
-            placeholder="Email Address"
-            style={{ marginLeft: '1000px', border: 'none' }}
+            placeholder="   Email Address"
+            style={{ marginLeft: '1000px', border: 'none', width:'400px', height:'50px' }}
           />
           <h2 style={{ fontWeight: '400', fontSize: '16px', marginLeft: '1100px' }}>Follow us On</h2>
           <img src={images} style={{ marginLeft: '1100px', marginTop: '10px' }} alt="Social Media Icons" />
