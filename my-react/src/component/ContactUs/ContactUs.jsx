@@ -28,8 +28,8 @@ const ContactUs = () => {
             <label htmlFor="phone">Phone Number</label>
             <div className="phone-input">
               <select>
-                <option value="US">US</option>
-                <option value="KG">KG</option>
+                <option value="KZ">KZ</option>
+                <option value="KG">KG</option>  
                 <option value="RU">RU</option>
               </select>
               <input type="tel" id="phone" placeholder="Phone Number" />
